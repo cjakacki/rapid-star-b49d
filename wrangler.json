@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "rapid-star-b49d",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "cad59ee2-32bb-454c-9660-c86acd2ddaa6",
+      "database_name": "rapid-star-b49d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
